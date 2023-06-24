@@ -1,0 +1,50 @@
+
+body{
+    background-image: linear-gradient(to left,rgb(186, 130, 139),rgb(152, 0, 0),purple);
+}
+
+body{
+    color:#ff498e
+}
+
+a{ 
+    color:#ff498e
+}
+#in{
+    background-color: gainsboro;
+    width:10% ;
+}   
+
+#sl{background-color:gainsboro ;
+width:10% ;
+
+}
+#vid{background-color:gainsboro ;
+width:10% ;
+} 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: linear-gradient(to left,rgb(186, 130, 139),rgb(152, 0, 0),purple);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 110px;
+    text-decoration: none;
+  }
+  
+#adidas-p
+{font-size:larger;}
+
+
+
+
